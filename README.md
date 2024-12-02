@@ -60,7 +60,7 @@ How to Use
 Clone the repository:
 
 Copy code
-git clone https://github.com/raj07a/climate-analysis.git  
+git clone https://github.com/raj07a/Carbon-Emission-Analysis.git  
 
 Install dependencies:
 
